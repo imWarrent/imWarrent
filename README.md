@@ -17,7 +17,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/imwarrent"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imwarrent" /></a></p><br><br>
-<br><br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imwarrent&show_icons=true&locale=en&layout=compact" alt="imwarrent" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imwarrent&" alt="imwarrent" /></p>
