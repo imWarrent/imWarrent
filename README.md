@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwarrent&label=Profile%20views&color=0e75b6&style=flat" alt="imwarrent" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Docker, GraphQL, WebSocket and CI/CD**
 
 - 📫 How to reach me **imwarrentpadolina@gmail.com**
 
