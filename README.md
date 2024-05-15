@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Chat Socket](https://github.com/imWarrent/chat-ws)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, GraphQL, WebSocket and CI/CD**
+- 🌱 I’m currently learning **Docker, AWS, Kubernetes, GraphQL, WebSocket and CI/CD**
 
 - 👯 I’m looking to collaborate on **GraphQL Projects**
 
-- 👨‍💻 All of my projects are available at [https://warrenportfolio.netlify.app/](https://warrenportfolio.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://warrenportfolio.netlify.app/](https://warrenportfolio.netlify.app/)
 
 - 💬 Ask me about **frontend and backend technologies**
 
