@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chat Socket](https://github.com/imWarrent/chat-ws)
 
-- 🌱 I’m currently learning **Docker, AWS, Kubernetes, GraphQL, WebSocket and CI/CD**
+- 🌱 I’m currently learning **AWS, Kubernetes, GraphQL, Microservice and CI/CD**
 
 - 👯 I’m looking to collaborate on **GraphQL Projects**
 
