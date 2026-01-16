@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwarrent&label=Profile%20views&color=0e75b6&style=flat" alt="imwarrent" /> </p>
 
-- 🔭 I’m currently working on [Chat Socket](https://github.com/imWarrent/chat-ws)
+- 🔭 I’m currently working on Pawtrol Vet AI
 
-- 🌱 I’m currently learning **AWS, Kubernetes, GraphQL, Microservice and CI/CD**
+- 🌱 I’m currently learning **AWS, Kubernetes, GraphQL, Microservice, AI and CI/CD**
 
-- 👯 I’m looking to collaborate on **GraphQL Projects**
+- 👯 I’m looking to collaborate on **AI Projects**
 
 - 👨‍💻 My portfolio is available at [https://warrenportfolio.netlify.app/](https://warrenportfolio.netlify.app/)
 
